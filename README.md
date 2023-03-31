@@ -4,7 +4,7 @@ Chinese word segmentation datasets for the general domain including MSR and PKU
 
 Four Master theses are cited below:
 
-5.	Xie, X.J.; Xie, Z.; Ma, K.; Chen, J.G.; Qiu, Q.J.; Li, H.; Pan, S.Y.; Tao, L.F. Geological Named Entity Recognition based on Bert and BiGRU-Attention-CRF Model. Geol. Bull. China 2021, 1–13  , http://kns.cnki.net/kcms/detail/11.4648.p.20210913.1040.002.html.
+5.	Xie, X.J.; Xie, Z.; Ma, K.; Chen, J.G.; Qiu, Q.J.; Li, H.; Pan, S.Y.; Tao, L.F. Geological Named Entity Recognition based on Bert and BiGRU-Attention-CRF Model. Geol. Bull. China 2021, 1–13, http://kns.cnki.net/kcms/detail/11.4648.p.20210913.1040.002.html.
 
 7.	Yang, Y., Mechanical statistical word segmentation system based on Hash structure. Master Thesis, Central South University, Changsha, China, 2005.
 
